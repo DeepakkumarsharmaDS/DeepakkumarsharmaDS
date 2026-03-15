@@ -31,7 +31,7 @@ As a computer science student, i have a good grasp on *Data structures & Algorit
 </div>
 
 ## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/divakar_singh166/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/deepak-kumar-sharma-849564166/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://www.instagram.com/divakar_singh166/](https://www.instagram.com/the_unfiltered_sharma/)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/deepak-kumar-sharmads)
 
 ---
 
